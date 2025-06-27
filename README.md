@@ -5,6 +5,6 @@
 
 <b>Mentor</b> : Yashwanth VVS
 
-Reference : Build a LLM written by sebastian Raschka
+Reference Theory: Build a LLM written by sebastian Raschka
 
-Github Repository used : https://github.com/rasbt/LLMs-from-scratch
+Github Repository used for code : https://github.com/rasbt/LLMs-from-scratch
